@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.link a ,.inst a{ 
+    list-style: none;
+    text-decoration: none;
+}
+
+.link a{
+    margin: 0px 5px;
+}
+
+.footer img{
+    width: 10%;
+}
